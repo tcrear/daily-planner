@@ -7,7 +7,7 @@ This project was to create a daily planner to manage your work day. There are th
 
 ## Screenshot
 
-![Screenshot](screenshot.jpg)
+![image](https://github.com/tcrear/daily-planner/blob/main/assets/images/screenshot.jpg)
 
 
 ## Link to Deployed Site
